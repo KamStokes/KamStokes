@@ -1,4 +1,4 @@
-## Hi there 👋
+hi my name is Kam
 
 <!--
 **KamStokes/KamStokes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
