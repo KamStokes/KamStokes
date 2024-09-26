@@ -4,7 +4,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/KamStokes/osticket-prereqs)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/KamStokes/Ad-config)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/KamStokes/ad-config)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/KamStokes/azure-network-protocols)
 
 <h2>🤳Connect with me:</h2>
